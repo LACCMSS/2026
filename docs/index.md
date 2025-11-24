@@ -46,8 +46,7 @@ Registration is required for non-LANL participants who will receive travel, room
 * Material Informatics and ML/AI for Quantum Materials
 
 
-<!-- ## How to Apply: [Here](apply.md) -->
-
+## How to Apply: [Here](apply.md)
 
 ## Organizers
 * Christopher Lane, Theoretical Division, Los Alamos
@@ -63,5 +62,6 @@ Registration is required for non-LANL participants who will receive travel, room
 * [Institute for Materials Science (IMS)](https://www.lanl.gov/engage/collaboration/nsec/institute-for-materials-science), LANL
 * [Center for Nonlinear Studies (CNLS)](https://cnls.lanl.gov/External/), LANL
 * [Center for Integrated Nanotechnology (CINT)](https://cint.lanl.gov/), LANL
-#* [International Institute for Complex Adaptive Matter (ICAM-I2CAM)](https://www.icam-i2cam.org/)
-
+<!--
+* [International Institute for Complex Adaptive Matter (ICAM-I2CAM)](https://www.icam-i2cam.org/)
+-->
