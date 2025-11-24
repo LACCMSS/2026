@@ -2,7 +2,7 @@
 hide:
   - navigation
   - toc
-title: Lecture notes
+title: Lecture notes + Tutorials
 ---
 
-Lecture notes will be uploaded here at the end of each lecture.
+Lecture notes and tutorials will be uploaded here at the end of each lecture.
