@@ -27,10 +27,10 @@ Registration is required for non-LANL participants who will receive travel, room
 |       | Date |
 |-------|------|
 | Application open | December 1, 2025 |
-| Application deadline | February 2, 2026 |
-| Results announced | February 16, 2026 |
+| Application deadline | January 18, 2026 |
+| Results announced | February 6, 2026 |
 | Registration | February 28, 2026 |
-| LANL onboarding package deadline | March 7, 2026 |
+| LANL onboarding package deadlne | March 7, 2026 |
 | Travel Itinerary Submitted | May 30, 2026 |
 | Poster Title and Lightning Slide Submitted |June 1, 2026 |
 | Arrival and Check-in | June 14, 2026 |
@@ -54,14 +54,14 @@ Registration is required for non-LANL participants who will receive travel, room
 * Elizabeth Peterson, Theoretical Division, Los Alamos
 * Jianxin Zhu, Theoretical Division, Los Alamos
 * Ying Wai Li, Computing and Artificial Intelligence Division, Los Alamos
-* Andrew Jones, Theoretical Division, Los Alamos
-* Alessandro Mazza, Theoretical Division, Los Alamos
+* Andrew Jones, Center for Integrated Nanotechnologies, Los Alamos
+* Alessandro Mazza, Materials Science and Technology Division, Los Alamos
 
 
 ## Sponsors
 * [Institute for Materials Science (IMS)](https://www.lanl.gov/engage/collaboration/nsec/institute-for-materials-science), LANL
 * [Center for Nonlinear Studies (CNLS)](https://cnls.lanl.gov/External/), LANL
-* [Center for Integrated Nanotechnology (CINT)](https://cint.lanl.gov/), LANL
+* [Center for Integrated Nanotechnologies (CINT)](https://cint.lanl.gov/), LANL
 <!--
 * [International Institute for Complex Adaptive Matter (ICAM-I2CAM)](https://www.icam-i2cam.org/)
 -->
