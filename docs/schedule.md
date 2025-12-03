@@ -4,11 +4,12 @@ hide:
   - toc
 title: Schedule
 ---
-
-Coming soon!
-
 <!--
+Coming soon!
+-->
+
 <p align="center">
-  <img src="../assets/images/Full_Schedule.png" />
+  <img src="../assets/images/Schedule2026.png" />
 </p>
+<!--
 -->
