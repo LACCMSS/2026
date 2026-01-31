@@ -6,6 +6,6 @@ title: Schedule
 ---
 
 <p align="center">
-  <img src="./assets/images/Schedule2026.png" />
+  <img src="../assets/images/Schedule2026.png" />
 </p>
 
