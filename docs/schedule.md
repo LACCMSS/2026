@@ -9,7 +9,7 @@ Coming soon!
 -->
 
 <p align="center">
-  <img src="./assets/images/Schedule2026.gif" />
+  <img src="assets/images/Schedule2026.gif" />
 </p>
 <!--
 -->
