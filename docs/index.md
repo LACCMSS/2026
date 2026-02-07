@@ -26,9 +26,9 @@ Registration is required for non-LANL participants who will receive travel, room
 ## Important Dates:
 |       | Date |
 |-------|------|
-| Application open | December 1, 2025 |
-| Application deadline | January 18, 2026 |
-| Results announced | February 6, 2026 |
+| Application open | <s>December 1, 2025</s> |
+| Application deadline | <s>January 18, 2026</s> <i style="text-color:Tomato;">Application window is closed.</i> |
+| Results announced | <s>February 6, 2026</s> <strong>February 9, 2025</strong> |
 | Registration | February 28, 2026 |
 | LANL onboarding package deadlne | March 7, 2026 |
 | Travel Itinerary Submitted | May 30, 2026 |
