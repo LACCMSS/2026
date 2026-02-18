@@ -5,4 +5,4 @@ hide:
 title: Previous Summer School
 ---
 
-[Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/)
+**2025** [Los Alamos Computational Condensed Matter Summer School 2025](https://laccmss.github.io/2025/)
