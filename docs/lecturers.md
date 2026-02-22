@@ -9,6 +9,7 @@ title: Lecturers
 <br>Thomas Maier, <i>Oak Ridge National Laboratory</i>
 <br>John J. Rehr, <i>University of Washington</i>
 <br>Felipe da Jornada, <i>Stanford University</i> 
+<br>Aidan Thompson, <i>Sandia National Laboratory</i> 
 <br>Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
 <br>Ying Wai Li, <i>Los Alamos National Laboratory</i>
 <br>Roxanne Tutchton, <i>Los Alamos National Laboratory</i>
