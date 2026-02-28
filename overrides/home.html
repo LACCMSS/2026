@@ -1,0 +1,31 @@
+{% extends "main.html" %}
+<!-- Remove side nav bar on large screens on desktop -->
+{% block header %}
+  {{ super() }}
+
+  <!-- Additional styles for landing page -->
+  <style>
+
+    /* Hide table of contents */
+    @media screen and (min-width: 60em) {
+      .md-sidebar--secondary {
+        display: none !important;
+      }
+    }
+
+    /* Hide navigation */
+    @media screen and (min-width: 76.25em) {
+      .md-sidebar--primary {
+        display: none !important;
+      }
+    }
+</style>
+{% endblock %}
+{% block hero %}
+<div>
+    <figure style="margin: 0; display: flex; justify-content: center;">
+        <img src="assets/images/lanl.jpg" style="object-fit: cover;object-position: 100% 0;width: 720;height: 375px;">
+        <!-- <figcaption>PyTexas 2022, credit Laura Santamaria</figcaption> -->
+    </figure>
+</div>
+{% endblock %}
