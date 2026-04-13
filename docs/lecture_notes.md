@@ -5,4 +5,4 @@ hide:
 title: Lecture notes + Tutorials
 ---
 
-Lecture notes and tutorials will be uploaded here at the end of each lecture.
+Lecture notes and tutorials will be uploaded during the course of the school.
