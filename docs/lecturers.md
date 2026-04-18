@@ -4,12 +4,13 @@ hide:
   - toc
 title: Lecturers
 ---
-<br>Rob Moore, <i>Oak Ridge National Laboratory</i>
-<br>Jonathan Pelliciari, <i>Brookhaven National Laboratory</i>
+<br>Weitao Yang, <i>Duke University</i>
 <br>Venkat Viswanathan, <i>University of Michigan</i>
+<br>Rob Moore, <i>Oak Ridge National Laboratory</i>
+<br>John J. Rehr, <i>University of Washington</i>
+<br>Jonathan Pelliciari, <i>Brookhaven National Laboratory</i>
 <br>Markus Raschke, <i>University of Colorado Boulder</i>
 <br>Thomas Maier, <i>Oak Ridge National Laboratory</i>
-<br>John J. Rehr, <i>University of Washington</i>
 <br>Felipe da Jornada, <i>Stanford University</i> 
 <br>Aidan Thompson, <i>Sandia National Laboratory</i> 
 <br>Rick Remsing, <i>Rutgers University</i> 
