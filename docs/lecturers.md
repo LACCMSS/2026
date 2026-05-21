@@ -15,6 +15,7 @@ title: Lecturers
 <br>Aidan Thompson, <i>Sandia National Laboratory</i> 
 <br>Rick Remsing, <i>Rutgers University</i> 
 <br>Tenzin Norden, <i>Los Alamos National Laboratory</i>
+<br>Andrew Jones, <i>Center for Integrated Nanotechnologies</i>
 <br>Megan Davis, <i>Los Alamos National Laboratory</i>
 <br>Jian-Xin Zhu, <i>Los Alamos National Laboratory</i>
 <br>Ying Wai Li, <i>Los Alamos National Laboratory</i>
