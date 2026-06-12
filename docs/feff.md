@@ -13,7 +13,7 @@ Once you have registered, you will receive a download link along with a copy of 
 
 ## Instructions for setting up JFEFF+FEFF10
 
-### Windows:
+### Windows
 
 1.  You need an updated version of java for JFEFF to work. Please [install java](https://www.java.com/download/ie_manual.jsp) if it is not already installed. 
     
@@ -36,7 +36,7 @@ Once you have registered, you will receive a download link along with a copy of 
 10.  You can find examples in your home directory in a directory named "feff10\_examples". Note that some of these examples do not work with JFEFF, although all should work with FEFF10.
     
 
-### Mac:
+### Mac
 
 1. If you have a mac with M1 or M2 chip rather than Intel, you will need to install rosetta. To do so, open a terminal and type the following command: 
 `/usr/sbin/softwareupdate --install-rosetta --agree-to-license`
@@ -84,7 +84,7 @@ Hit enter to agree and install.
 19.  You can find examples in your home directory in a directory named "feff10\_examples". Note that some of these examples do not work with JFEFF, although all should work with FEFF10.
     
 
-### Linux:
+### Linux
 
 1.  In order to install JFEFF+FEFF10 on linux, you will need Oracle java, which you can find at [https://www.java.com/en/download/](https://www.java.com/en/download/)
     
