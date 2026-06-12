@@ -32,8 +32,8 @@ to log into chicoma.
 ### Installing OpenSC 
 To get the opensc-pkcs11.so library on your Linux system, you need to install the OpenSC package. Depending on your Linux distribution, the exact location of the file might vary slightly (such as /usr/lib/x86_64-linux-gnu/opensc-pkcs11.so or /usr/lib64/opensc-pkcs11.so), but installing the core package will provide it.
 ```
-sudo apt update
-sudo apt install opensc opensc-pkcs11
+>> sudo apt update
+>> sudo apt install opensc opensc-pkcs11
 ```
 
 ### Connecting to Chicoma
