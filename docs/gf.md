@@ -1,8 +1,5 @@
 ---
-hide:
-  - navigation
-  - toc
-title: Lecture Notes
+title: GF
 ---
 
-Lecture notes and tutorials will be uploaded during the course of the school.
+Notes to be added.
