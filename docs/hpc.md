@@ -59,7 +59,7 @@ to log into chicoma.
 
 ## Windows
 
-### Install OpenSC to use Z-Token
+### Install OpenSC
 1. Download the latest stable version of OpenSC from its GitHub repo: [https://github.com/OpenSC/OpenSC](https://github.com/OpenSC/OpenSC). For 64-bit and 32-bit programs use OpenSC*_win64.msi and OpenSC*_win32.msi, respectively.
 2. Run the installer as an admin. 
 3. Then, with the card reader connected and the PiV/zToken card inserted, test the PKCS#11 support of your card with one of these options in cmd.exe (this should also work on PowerShell):
