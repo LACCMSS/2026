@@ -1,8 +1,6 @@
 ---
-hide:
-  - navigation
-  - toc
-title: Lecture Notes
+title: MD
 ---
 
-Lecture notes and tutorials will be uploaded during the course of the school.
+
+notes to be added
