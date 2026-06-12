@@ -36,6 +36,12 @@ nav:
   - Schedule: schedule.md
   - Lecturers: lecturers.md
   - Lecture Notes: lecture_notes.md
+  - 'Hands-on Tutorials':
+    - 'Accessing LANL HPC': hpc.md
+    - 'Density Functional Theory (DFT)': dft.md
+    - 'Molecular dynamics (MD)': md.md
+    - 'FEFF': feff.md
+    - "Green's Functions": gf.md
   - Venue/Travel: location.md
   - Contact: contact.md
   - "Previous Schools": archive.md
