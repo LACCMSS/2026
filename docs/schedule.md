@@ -12,7 +12,7 @@ title: Schedule
   <img src="../assets/images/Schedule2026_2.png" />
 </p>
 
-## Detailed daily Schedule
+## Detailed Daily Schedule
 
 <p align="center">
   <img src="../assets/images/Schedule_detailed_1.png" />
