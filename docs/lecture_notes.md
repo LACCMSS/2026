@@ -18,6 +18,7 @@ title: Lecture Notes
 ### Elizabeth Peterson
 
 ### Roxanne Tutchton
+- [Determination of Electronic Structure: Solving the Kohn-Sham Equations](assets/Lecture_Data/Roxanne_Tutchton/LACCMSS_Electronic_Structure_Determination_Tutchton.pdf)
 
 ### Richard Remsing
 
