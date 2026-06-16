@@ -12,7 +12,7 @@ title: Lecture Notes
 
 
 ### Christopher Lane
-- [Many-Body Primer Lecture Notes ](assets/Lecture_Data/LectureNotes.pdf)
+- [Many-Body Primer Lecture Notes ](assets/Lecture_Data/Christopher_Lane/ManyBodyPrimerLectureNotes.pdf)
 
 
 
