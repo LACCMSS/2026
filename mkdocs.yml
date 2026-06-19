@@ -42,6 +42,7 @@ nav:
     - 'Molecular dynamics (MD)': md.md
     - 'FEFF': feff.md
     - "Green's Functions": gf.md
+    - "GW+BSE": bse.md
   - Venue/Travel: location.md
   - Contact: contact.md
   - "Previous Schools": archive.md
