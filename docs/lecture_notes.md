@@ -24,7 +24,7 @@ title: Lecture Notes
 
 ### Christopher Lane
 - [Many-Body Primer Lecture Notes ](assets/Lecture_Data/Christopher_Lane/ManyBodyPrimerLectureNotes.pdf)
-
+- [When Independent Particle Methods Fail: The Effect of Correlations ](assets/Lecture_Data/Christopher_Lane/LANE_DFT_What_are_we_missing_Talk_2026.pdf)
 
 
 More lecture notes and tutorials will be uploaded during the course of the school.
