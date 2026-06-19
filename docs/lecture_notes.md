@@ -28,5 +28,9 @@ title: Lecture Notes
 - [Many-Body Primer Lecture Notes ](assets/Lecture_Data/Christopher_Lane/ManyBodyPrimerLectureNotes.pdf)
 - [When Independent Particle Methods Fail: The Effect of Correlations ](assets/Lecture_Data/Christopher_Lane/LANE_DFT_What_are_we_missing_Talk_2026.pdf)
 
+## Sergei Tretiak
+- [Electronically excited states and theoretical spectroscopy: principles, simulations, examples, machine learning](assets/Lecture_Data/Sergei_Tretiak/Excited_states_Cond.Matter.School_LANL_2026.pdf)
+
+
 
 More lecture notes and tutorials will be uploaded during the course of the school.
