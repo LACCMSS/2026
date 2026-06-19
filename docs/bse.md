@@ -1,10 +1,10 @@
 ---
-title: DFT
+title: GW+BSE
 ---
 
-# Tutorials in DFT
+# Tutorials in GW+BSE
 
-Please download the tutorials via this [link](assets/Tutorials/DFT_TUTORIAL.zip)
+Please download the tutorials via this [link](https://app.box.com/s/r10ouxmzju3v6o7q2lskl381ncrxqrz8)
 
 
 
