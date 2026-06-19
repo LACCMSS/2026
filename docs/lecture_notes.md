@@ -15,13 +15,15 @@ title: Lecture Notes
 - [Density Functional Theory: Fundamentals](assets/Lecture_Data/Weitao_Yang/2026_DFT_Fundamentals_LANL.pdf)
 - [Density Functional Theory: Moden Developments](assets/Lecture_Data/Weitao_Yang/2026_DFT_Recent_Developments_LANL.pdf)
 
-### Elizabeth Peterson
-- [Predicting Properties from First-Principles I: Electronic and Magnetic Properties](assets/Lecture_Data/Elizabeth_Peterson/laccmss_16jun26.pdf)
-
 ### Roxanne Tutchton
 - [Determination of Electronic Structure: Solving the Kohn-Sham Equations](assets/Lecture_Data/Roxanne_Tutchton/LACCMSS_Electronic_Structure_Determination_Tutchton.pdf)
 
+### Elizabeth Peterson
+- [Predicting Properties from First-Principles I: Electronic and Magnetic Properties](assets/Lecture_Data/Elizabeth_Peterson/laccmss_16jun26.pdf)
+
 ### Richard Remsing
+
+
 
 ### Christopher Lane
 - [Many-Body Primer Lecture Notes ](assets/Lecture_Data/Christopher_Lane/ManyBodyPrimerLectureNotes.pdf)
