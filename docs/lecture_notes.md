@@ -22,8 +22,7 @@ title: Lecture Notes
 - [Predicting Properties from First-Principles I: Electronic and Magnetic Properties](assets/Lecture_Data/Elizabeth_Peterson/laccmss_16jun26.pdf)
 
 ### Richard Remsing
-
-
+- [Predicting Properties from First-Principles II: Total Energy and Force Applications](assets/Lecture_Data/Richard_Remsing/Remsing_LANL_2026.pdf)
 
 ### Christopher Lane
 - [Many-Body Primer Lecture Notes ](assets/Lecture_Data/Christopher_Lane/ManyBodyPrimerLectureNotes.pdf)
