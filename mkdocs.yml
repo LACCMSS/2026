@@ -43,6 +43,7 @@ nav:
     - 'FEFF': feff.md
     - "Green's Functions": gf.md
     - "GW+BSE": bse.md
+    - "DCA++": dca.md
   - Venue/Travel: location.md
   - Contact: contact.md
   - "Previous Schools": archive.md
