@@ -31,6 +31,10 @@ title: Lecture Notes
 ### Sergei Tretiak
 - [Electronically excited states and theoretical spectroscopy: principles, simulations, examples, machine learning](assets/Lecture_Data/Sergei_Tretiak/Excited_states_Cond.Matter.School_LANL_2026.pdf)
 
-
+### John Rehr
+- [I. Theoretical X-ray Spectroscopy: Fundamentals and Applications & II. Advances in Theoretical X-ray spectroscopy](assets/Lecture_Data/John_Rehr/LACCMSS-Lectures-JJRehr.pdf)
+- [Hands-on Xray Spectroscopy with FEFF10](assets/Lecture_Data/John_Rehr/LANL-JFEFF-FEFF10-Demo-26.pdf)
+- [Review Paper: Parameter-free calculations of X-ray spectra with FEFF9](assets/Lecture_Data/John_Rehr/Review-PCCP-2010.pdf)
+- [Review Paper: Ab initio calculation of X-ray and related core- level spectroscopies: Green’s function approaches](assets/Lecture_Data/John_Rehr/Review-PCCP-2022.pdf)
 
 More lecture notes and tutorials will be uploaded during the course of the school.
