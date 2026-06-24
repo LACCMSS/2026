@@ -48,5 +48,6 @@ title: Lecture Notes
 - [Review Paper: Ab initio calculation of X-ray and related core- level spectroscopies: Green’s function approaches](assets/Lecture_Data/John_Rehr/Review-PCCP-2022.pdf)
 
 ### Jonathan Pelliciari
+-  [Resonant Inelastic X-ray Scattering (RIXS): Introduction and Applications](assets/Lecture_Data/Jonathan_Pelliciari/LANL_School_2026.pdf)
 
 More lecture notes and tutorials will be uploaded during the course of the school.
