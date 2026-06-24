@@ -44,6 +44,7 @@ nav:
     - "Green's Functions": gf.md
     - "GW+BSE": bse.md
     - "DCA++": dca.md
+    - FitSNAP: fitsnap.md
   - Venue/Travel: location.md
   - Contact: contact.md
   - "Previous Schools": archive.md
