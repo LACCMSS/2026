@@ -2,7 +2,10 @@
 title: FEFF
 ---
 
-# Obtaining and Setting up FEFF
+# FEFF Tutorial Session
+
+## Tutorial Slides
+- [Hands-on Xray Spectroscopy with FEFF10](assets/Lecture_Data/John_Rehr/LANL-JFEFF-FEFF10-Demo-26.pdf)
 
 ## Downloading FEFF
 
@@ -125,7 +128,4 @@ Hit enter to agree and install.
     
 17.  You can find examples in your home directory in a directory named "feff10\_examples". Note that some of these examples do not work with JFEFF, although all should work with FEFF10.
 
-
-# Tutorial Slides
-- [Hands-on Xray Spectroscopy with FEFF10](assets/Lecture_Data/John_Rehr/LANL-JFEFF-FEFF10-Demo-26.pdf)
 
