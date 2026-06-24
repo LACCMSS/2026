@@ -5,11 +5,11 @@ title: FEFF
 # FEFF Tutorial Session
 
 ## Tutorial Slides
-- [Hands-on Xray Spectroscopy with FEFF10](assets/Lecture_Data/John_Rehr/LANL-JFEFF-FEFF10-Demo-26.pdf)
+- [Hands-on Xray Spectroscopy with FEFF10](assets/Lecture_Data/John_Rehr/LANL-JFEFF-FEFF10-Demo-26.pdf){target="_blank"}
 
 ## Downloading FEFF
 
-To obtain FEFF, first fill out the registration form [Here](https://times-software.github.io/feff10/)
+To obtain FEFF, first fill out the registration form [Here](https://times-software.github.io/feff10/){target="_blank"}
 
 Once you have registered, you will receive a download link along with a copy of the installation instructions.
 
@@ -18,9 +18,9 @@ Once you have registered, you will receive a download link along with a copy of 
 
 ### Windows
 
-1.  You need an updated version of java for JFEFF to work. Please [install java](https://www.java.com/download/ie_manual.jsp) if it is not already installed. 
+1.  You need an updated version of java for JFEFF to work. Please [install java](https://www.java.com/download/ie_manual.jsp){target="_blank"} if it is not already installed. 
     
-2.  Go to the [feff10 releases page](https://github.com/times-software/feff10/releases/latest) and download **jfeffv9.x.x_feffv10.x.x_win_installer.exe**, and run the installer.
+2.  Go to the [feff10 releases page](https://github.com/times-software/feff10/releases/latest){target="_blank"} and download **jfeffv9.x.x_feffv10.x.x_win_installer.exe**, and run the installer.
     
 3.  Open jfeff.
     
@@ -45,9 +45,9 @@ Once you have registered, you will receive a download link along with a copy of 
 `/usr/sbin/softwareupdate --install-rosetta --agree-to-license`
 Hit enter to agree and install.
 
-2. In order to install JFEFF+FEFF10 on OSx, you will need java jdk 8, which you can find at [JDK8 Download](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html). Choose the macos x64 file.
+2. In order to install JFEFF+FEFF10 on OSx, you will need java jdk 8, which you can find at [JDK8 Download](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html){target="_blank"}. Choose the macos x64 file.
     
-3. Download jfeffv9.x.x\_feffv10.x.x\_osx\_install.tgz from the [FEFF10 Download page](https://github.com/times-software/feff10/releases/latest)
+3. Download jfeffv9.x.x\_feffv10.x.x\_osx\_install.tgz from the [FEFF10 Download page](https://github.com/times-software/feff10/releases/latest){target="_blank"}
     
 4.  Open a terminal. Note that when you run some of the following commands, you might see a message: "Terminal would like to access files in ..." If you see this message, click "OK"
     
@@ -89,9 +89,9 @@ Hit enter to agree and install.
 
 ### Linux
 
-1.  In order to install JFEFF+FEFF10 on linux, you will need Oracle java, which you can find at [https://www.java.com/en/download/](https://www.java.com/en/download/)
+1.  In order to install JFEFF+FEFF10 on linux, you will need Oracle java, which you can find at [https://www.java.com/en/download/](https://www.java.com/en/download/){target="_blank"}
     
-2.  Download jfeffv9.x.x\_feffv10.x.x\_linux\_install.tgz from the [FEFF10 Download page](https://github.com/times-software/feff10/releases/latest)
+2.  Download jfeffv9.x.x\_feffv10.x.x\_linux\_install.tgz from the [FEFF10 Download page](https://github.com/times-software/feff10/releases/latest){target="_blank"}
     
 3.  Open a terminal.
     
