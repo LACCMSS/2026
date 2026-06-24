@@ -14,6 +14,7 @@ title: Lecturers
 <br>Felipe da Jornada, <i>Stanford University</i> 
 <br>Aidan Thompson, <i>Sandia National Laboratory</i> 
 <br>Rick Remsing, <i>Rutgers University</i> 
+<br>Philip Murgatroyd, <i>Los Alamos National Laboratory</i>
 <br>Sergei Tretiak, <i>Los Alamos National Laboratory</i>
 <br>Tenzin Norden, <i>Los Alamos National Laboratory</i>
 <br>Andrew Jones, <i>Center for Integrated Nanotechnologies</i>
