@@ -36,7 +36,7 @@ title: Lecture Notes
 ### Markus Raschke
 
 ### Philip Murgatroyd
--  [Seeing Electrons: A Pedagogical Introduction To Angle-Resolved Photoemission Spectroscopy](assets/Lecture_Data/Philip_Murgatroyd/ARPES.pptx)
+-  [Seeing Electrons: A Pedagogical Introduction To Angle-Resolved Photoemission Spectroscopy](assets/Lecture_Data/Philip_Murgatroyd/ARPES.pptx)
 
 ### Thomas Maier
 -  [Dynamic Cluster Approximation: LANL Summer School Lecture & Tutorial](assets/Lecture_Data/Thomas_Maier/LANL_Summer_Lecture_2026_Maier.pdf)
