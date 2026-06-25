@@ -50,7 +50,7 @@ title: Lecture Notes
 -  [Resonant Inelastic X-ray Scattering (RIXS): Introduction and Applications](assets/Lecture_Data/Jonathan_Pelliciari/LANL_School_2026.pdf){target="_blank"}
 
 ### Andrew Jones
-
+-  [Scanning Probe and Near-field Spectroscopy](assets/Lecture_Data/Andrew_Jones/CINT_AJones_scanning_probe_microscopy_lecture.pptx){target="_blank"}
 
 ### Tenzin Norden
 
