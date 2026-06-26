@@ -31,6 +31,9 @@ title: Lecture Notes
 - [Electronically excited states and theoretical spectroscopy: principles, simulations, examples, machine learning](assets/Lecture_Data/Sergei_Tretiak/Excited_states_Cond.Matter.School_LANL_2026.pdf){target="_blank"}
 
 ### Felipe da Jornada
+- [Ab initio Theoretical Optical Spectroscopy and the Bethe-Salpeter Equation (BSE)](assets/Lecture_Data/Felipe_da_Jornada/FHJ-2026.06.19-LANL-1-theory.pdf){target="_blank"}
+- [Practical BSE Calculations with BerkeleyGW](assets/Lecture_Data/Felipe_da_Jornada/FHJ-2026.06.19-LANL-2-practical.pdf){target="_blank"}
+- [BerkeleyGW Hands-on Session: Computing the Optical Absorption Spectrum of Si](assets/Lecture_Data/Felipe_da_Jornada/FHJ-2026.06.19-LANL-3-hands-on.pdf){target="_blank"}
 
 ### Markus Raschke
 
