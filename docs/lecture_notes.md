@@ -57,5 +57,9 @@ title: Lecture Notes
 
 ### Tenzin Norden
 
+### Ying Wai Li
+
+### Aidan Thompson
+
 
 More lecture notes and tutorials will be uploaded during the course of the school.
