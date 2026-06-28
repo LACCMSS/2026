@@ -9,7 +9,7 @@ title: Lecture Notes
 - [Los Alamos Computational Condensed Matter Summer School: Closing Remarks](assets/Lecture_Data/LACCMSS_2026_conclusion.pdf){target="_blank"}
 
 # Poster Flash Talks
-- [Los Alamos Computational Condensed Matter Summer School: Flash Talks](assets/Lecture_Data/LACCMSS_2026_flash_talks.pdf){target="_blank"}
+- [Los Alamos Computational Condensed Matter Summer School: Poster Flash Talks](assets/Lecture_Data/LACCMSS_2026_flash_talks.pdf){target="_blank"}
 
 # Lecture Notes
 
