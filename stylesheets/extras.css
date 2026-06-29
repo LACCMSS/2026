@@ -1,0 +1,13 @@
+[data-md-color-scheme="LANL_light"] {
+  --md-primary-fg-color: #030f79;
+  --md-default-bg-color: #ffffff;
+}
+
+[data-md-color-scheme="LANL_dark"] {
+  --md-primary-fg-color: #030f79; 
+  --md-default-bg-color: #9e9e9e;
+}
+
+:root  > * {
+  --md-footer-bg-color: #030f79;
+}
