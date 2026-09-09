@@ -61,6 +61,7 @@ title: Lecture Notes
 ### Tenzin Norden
 
 ### Ying Wai Li
+-  [ML/AI for Materials: Introduction and Overview](assets/Lecture_Data/Ying_Wai_Li/LACCMSS2026_YingWaiLi.pdf){target="_blank"}
 
 ### Aidan Thompson
 
