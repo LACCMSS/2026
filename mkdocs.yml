@@ -47,7 +47,7 @@ nav:
     - FitSNAP: fitsnap.md
   - Venue/Travel: location.md
   - Contact: contact.md
-  - "Previous Schools": archive.md
+  - "Current School": https://laccmss.org
 
 extra:
   generator: false
